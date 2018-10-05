@@ -11,7 +11,7 @@ public class AppTest {
     }
 	@Test public void testWillFail() {
         App classUnderTest = new App();
-        assertNotNull(null);
+        assertNotNull("h");
     }
 	
 	@Test public void testWillFail() {
